@@ -1,0 +1,85 @@
+[
+    {
+        "image": "Images/Dining1.jpeg",
+        "title": "Osten Table",
+        "description": "Echoing a sense of nature the tranquil, contemporary shape and soft tones of the Osten Table creates an underlying feel of refined elegance. Expressed through the tambour base and oblong top, the Osten adds an atmosphere of warmth and radiance to any home.",
+        "price": "$1249"
+
+    },
+    {
+        "image": "Images/Dining2.jpeg",
+        "title": "Eleanor Dining Table",
+        "description": "An ode to modern design, the delicate composition of the Eleanor Dining Table captivates with its radiant, long-lasting marble top and architectural base. Inherently sophisticated and intriguing, the Eleanor adds a sense of timeless elegance to any space.",
+        "price": "$1749"
+
+    },
+    {
+        "image": "Images/Sectional1.jpeg",
+        "title": "Porter Sectional",
+        "description": "The Porter Sectional is a simple structured sofa with boxy flare and a low-set profile. Square arm rests are made like a side table, while an elevated back rest provides ample lean-back support. High-density foam cushioning is nicely rounded and perfectly firm. Detailed pipe stitching around the edges finishes the eloquent modern design.",
+        "price": "$2499"
+
+    },
+    {
+        "image": "Images/Sectional2.jpeg",
+        "title": "Reya Curved Sectional",
+        "description": "Immerse yourself in the enveloping comfort of the Reya Curved Sectional. Articulated by monumental arches and a refined silhouette, the Reya Sectional creates a soothing ambiance; making way for relaxed entertainment and interaction.",
+        "price": "$3499"
+
+    },
+    {
+        "image": "Images/Bed2.jpeg",
+        "title": "Hunter Bed",
+        "description": "Hunter's handsome frame and choice of dreamy American walnut veneer or ash veneer are reminiscent of a modern cabin. The wide and low profile adds casual comfort to a good night, with a generous headboard composed of three sections. The low part joins seamlessly at the base of the frame, while the top portion of the extended headboard leans slightly back to collect all angles of comfort towards the center. The extended panels of the headboard are designed specifically for fitting complimentary nightstands under its wing, available in matching American walnut, ash veneer, or high gloss white lacquer for an unexpectedly cool contrast. Hunter is part of a four-piece modern bedroom set and is available in King or Queen. ",
+        "price": "$1459"
+
+    },
+    {
+        "image": "Images/Bed3.jpeg",
+        "title": "Berlin Bed",
+        "description": "Open your senses to the enticing, contemporary shape of the Berlin Bed. Punctuated by the smooth channel detailing and sumptuous, sustainable upholstery, the Berlin embodies an atmosphere of modern luxury. Pair with the Berlin Bench for the ultimate space for relaxing.",
+        "price": "$1879"
+
+    },
+    {
+        "image": "Images/NS1.jpeg",
+        "title": "Asher Nightstand",
+        "description": "Asher’s seamless joinery and beautiful walnut or ash veneer are inspired by Danish traditional mid-century masterpieces. The delicately sculpted frame falls 45 degrees into the drawers creating a beautiful casing and intricate depth. Neatly tapered solid wood legs complete the look with handsome brushed copper detail. The Asher Nightstand is the perfect complement to the Asher bed frame, and completes the classic mid-century modern dream.",
+        "price": "$409"
+    },
+    {
+        "image": "Images/NS2.jpeg",
+        "title": "Georgio Nightstand",
+        "description": "Georgio is an unparalleled contemporary nightstand, that captures the pure essence of modern luxury. Minute brass details and judiciously applied materials, accentuate the linear lines of the rich walnut slat detail. The Georgio Nightstand is the perfect foundation for any bedroom.",
+        "price": "$499"
+
+    },
+    {
+        "image": "Images/Coffee1.jpeg",
+        "title": "Maria Coffee Table",
+        "description": "Designed exclusively by Maria Sharapova for Rove Concepts. Like a statue in a grand space, this stunning coffee table stands out with its monumental design and sophisticated aesthetic. The soft curves crafted from concrete bestows a refined radiance upon the wide pedestal base.",
+        "price": "$1199"
+
+    },
+    {
+        "image": "Images/Coffee2.jpeg",
+        "title": "PCascadia Coffee Table",
+        "description": "Relish in the captivating spirit of the Cascadia. Uniting luxurious sophistication with an understated, modern design, the Cascadia Coffee Table illuminates any space with its smooth contours and unparalleled silhouette.",
+        "price": "$999"
+
+    },
+    {
+        "image": "Images/Pillow1.jpeg",
+        "title": "Large Throw Pillow",
+        "description": "Add character and coziness to any space with throw pillows in your choice of fabric. Filled with goose feathers for soft support.",
+        "price": "$48"
+
+    },
+    {
+        "image": "Images/Pillow2.jpeg",
+        "title": "Rectangular Outdoor Throw Pillow",
+        "description": "Lush materials in muted tones are complemented with the sinuous contours of our fast dry foam cushions designed for easy-living. Available in various sizes and colors, perfect for adding comfort and character to any outdoor lounge space.",
+        "price": "$32"
+    }
+
+]
